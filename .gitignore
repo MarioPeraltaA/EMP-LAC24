@@ -1,0 +1,5 @@
+*/.ipynb_checkpoints/*.ipynb_checkpoints
+*/.ipynb_checkpoints/*checkpoint.ipynb
+.ipynb_checkpoints/
+Viejo Py6.ipynb
+.DS_Store
